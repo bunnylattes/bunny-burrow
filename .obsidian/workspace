@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "220d0c4a9e5894b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b842f2ea1a14145",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "full stack notes/comm 2172/01 Designing Your Career.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a9095f8be43e90d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2551fdc714b7e9e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e19ef4ca8137618",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b1e68c9f107d85b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296
+  },
+  "right": {
+    "id": "810e796c2e2d45ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ea301e476a6d21d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "728daa6114a47d76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "full stack notes/comm 2172/01 Designing Your Career.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b634985e4d2c5907",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee89c917e3202e9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "964a3f819996e1fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "full stack notes/comm 2172/01 Designing Your Career.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3b842f2ea1a14145",
+  "lastOpenFiles": [
+    "full stack notes/comm 2172/01 Designing Your Career.md",
+    "full stack notes/webd 2010/09 Agile Business Analysis.md",
+    "full stack notes/webd 2010/08 Risk Management.md",
+    "full stack notes/webd 2010/07 Communicating Effectively.md",
+    "full stack notes/webd 2010/02 Project Integration.md",
+    "full stack notes/webd 2011/04 Analysis Techniques.md",
+    "full stack notes/webd 2011/02 Requirements.md",
+    "full stack notes/webd 2008/05-01 Javascript & React.md",
+    "full stack notes/webd 2008/01 Intro to PHP.md",
+    "full stack notes/webd 2011/01 Object-Oriented Fundamentals.md"
+  ]
+}
