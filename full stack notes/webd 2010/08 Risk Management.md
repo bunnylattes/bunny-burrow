@@ -2,7 +2,7 @@
 class: webd 2010
 module:  module eight
 date: 
-tags: #webd-2010 #project-management #risk-management
+tags: webd-2010 project-management risk-management
 ---
 
 # Risk Management

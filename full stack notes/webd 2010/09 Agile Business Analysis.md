@@ -2,7 +2,7 @@
 class: webd 2010
 module: module nine
 date: 2022-04-27
-tags: #webd-2010 #project-management #Agile
+tags: webd-2010 project-management Agile
 ---
 
 # Week 9: Agile Business Analysis

@@ -2,7 +2,7 @@
 class: webd 2010
 module:  module six
 date:  2022-02-23
-tags:  #webd-2010 #project-management #project-quality #human-resources
+tags:  webd-2010 project-management project-quality human-resources
 ---
 
 # Week 6: Project Quality & Human Resource Management

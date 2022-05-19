@@ -2,7 +2,7 @@
 class: webd 2010
 module:  module two
 date:  2022-02-23
-tags: #term-2 #webd-2010  #project-management   
+tags: term-2 webd-2010  project-management   
 ---
 
 # Week 2: Project Integration

@@ -2,7 +2,7 @@
 class: webd 2010
 module:  module three
 date:  2022-02-23
-tags:  #webd-2010 #project-management #pmi #scope-management
+tags:  webd-2010 project-management pmi scope-management
 ---
 
 # Week 3: Scope Management

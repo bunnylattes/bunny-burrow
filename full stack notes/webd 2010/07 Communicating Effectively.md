@@ -2,7 +2,7 @@
 class: webd 2010
 module:  module seven
 date:  2022-02-23
-tags:  #webd-2010 #project-management #communications
+tags:  webd-2010 project-management communications
 ---
 
 # Communicating Effectively

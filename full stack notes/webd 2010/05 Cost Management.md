@@ -2,7 +2,7 @@
 class: webd 2010
 module:  module five
 date:  2022-02-23
-tags:  #webd-2010 #project-management #pmi #cost-management
+tags:  webd-2010 project-management pmi cost-management
 ---
 
 # Week 5: Cost Management
