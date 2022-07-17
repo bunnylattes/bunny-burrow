@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1c31fe667ca8f414",
+        "id": "ee480e9bd002a422",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "full stack notes/webd 2011/05 Domain Modeling.md",
-            "mode": "preview",
+            "file": "full stack notes/webd 2011/09 SOLID & Design Patterns.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 291
   },
   "right": {
     "id": "810e796c2e2d45ac",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "full stack notes/webd 2011/05 Domain Modeling.md",
+                "file": "full stack notes/webd 2011/09 SOLID & Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "full stack notes/webd 2011/05 Domain Modeling.md",
+                "file": "full stack notes/webd 2011/09 SOLID & Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1c31fe667ca8f414",
+  "active": "ee480e9bd002a422",
   "lastOpenFiles": [
+    "full stack notes/webd 2011/09 SOLID & Design Patterns.md",
     "full stack notes/webd 2011/05 Domain Modeling.md",
-    "full stack notes/webd 2010/02 Project Integration.md",
-    "full stack notes/webd 2011/04 Analysis Techniques.md",
-    "full stack notes/webd 2010/10 The Agile Team.md",
-    "full stack notes/webd 2010/15 Customer Management.md",
-    "full stack notes/webd 2010/15 Agile Planning.md",
-    "images/whatititake.jpg",
-    "images/tradeoff.jpg",
-    "full stack notes/webd 2010/14  Story Planning Workshops.md",
-    "full stack notes/webd 2010/13 Agile Documentation.md"
+    "images/pizzare.jpg",
+    "images/pizza.jpg",
+    "images/killerweb.jpg",
+    "images/image.jpg",
+    "full stack notes/webd 2011/07 Architecture Patterns.md",
+    "full stack notes/webd 2011/08 Creating a Service Layer.md",
+    "full stack notes/webd 2011/01 Object-Oriented Fundamentals.md",
+    "full stack notes/webd 2011/03 Use Cases and User Stories.md"
   ]
 }

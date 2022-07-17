@@ -58,7 +58,7 @@ tags: webd-2010 project-management Agile
 	- Group related features close to each other
 - Purpose: To see how features relate to each other and give visibility to priority setting and development sequence to stakeholders
 
-![[image.jpg]]
+![[killerweb.jpg]]
 #### 20/20 Vision
 - Methodology to compare feature to feature (written on cards)
 - Place all features face down, shuffle, pick one, and put it at the top of the list
